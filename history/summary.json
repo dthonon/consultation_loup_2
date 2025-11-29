@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 85,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 85,
+    "timeDay": 84,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.consultations-publiques.developpement-durable.gouv.fr.ico",
     "slug": "consultation-mte",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 1863,
-    "timeDay": 1206,
-    "timeWeek": 1863,
-    "timeMonth": 1863,
-    "timeYear": 1863,
-    "dailyMinutesDown": {
-      "2025-11-29": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1878,
+    "timeDay": 1266,
+    "timeWeek": 1878,
+    "timeMonth": 1878,
+    "timeYear": 1878,
+    "dailyMinutesDown": {}
   }
 ]

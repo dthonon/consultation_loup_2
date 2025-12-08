@@ -22,7 +22,7 @@
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-definissant-le-statut-de-a3276.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.consultations-publiques.developpement-durable.gouv.fr.ico",
     "slug": "consultation-mte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
@@ -34,6 +34,7 @@
     "timeMonth": 1334,
     "timeYear": 1334,
     "dailyMinutesDown": {
+      "2025-12-08": 0,
       "2025-12-05": 77,
       "2025-12-01": 21
     }
